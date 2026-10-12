@@ -1,0 +1,23 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Файлы редакторов
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Тестовые изображения (не храним в репозитории)
+*.jpg
+*.jpeg
+*.png
